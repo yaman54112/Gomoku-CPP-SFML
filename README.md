@@ -1,2 +1,2 @@
 # Gomoku-CPP-SFML
-A simple Gomoku game; just download the file and press the .exe file to play.
+A simple Gomoku (Five in a Row) game; simply download the file and press the .exe button to play. It features undo and reset functions, and includes sound effects. Just click the left mouse button to play!
